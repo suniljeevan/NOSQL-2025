@@ -21,7 +21,8 @@ Textbook:
 
 EVALUATION - INTERNAL ASSESSMENTS (50 MARKS)
 --------------------------------------------
-NAME	COMPONENT	MARKS	DATE
+NAME	                  COMPONENT	        MARKS	    DATE
+
 Continuous Assessment-1	THEORY-Class Work	10	BEFORE 30 AUG 2025
 
 Continuous Lab Assessment-1	Lab - Test+record	10	BEFORE 15 SEP 2025
