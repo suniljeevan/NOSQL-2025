@@ -12,6 +12,7 @@ CO4		Apply data access patterns using aggregate-oriented modeling and schema-les
 CO5	Utilize Map-Reduce and other data processing techniques to handle large-scale data operations efficiently in NoSQL environments.
 
 
+
 Textbook: 
 ---------
 1.	Sadalage, P. & Fowler, NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence, Pearson Addision Wesley, 2012. 
