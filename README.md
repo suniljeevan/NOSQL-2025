@@ -21,17 +21,18 @@ Textbook:
 
 EVALUATION - INTERNAL ASSESSMENTS (50 MARKS)
 --------------------------------------------
-|NAME	                  |      COMPONENT	       |  MARKS	|    DATE
-
-|Continuous Assessment-1|   	THEORY-Class Work|  	10    |	BEFORE 30 AUG 2025
-
-|Continuous Lab Assessment-1|	Lab - Test+record|	  10    |	BEFORE 15 SEP 2025
-
-|Continuous Lab Assessment-2|	Lab - Test+record|	10      |	BEFORE 17 OCT 2025
-
-|Continuous Assessment-2|	   THEORY-Home Work  |	10      |	BEFORE 5 NOV 2025
-
-|Final Record Submission|	   Lab – Record|	      5       |	BEFORE 30 NOV 2025
+|NAME	                   |      COMPONENT	       |  MARKS	|    DATE      |
+------------------------- ----------------------- -------- -------------- 
+|Continuous Assessment-1|   	THEORY-Class Work|  	10    |	BEFORE 30 AUG 2025 |
+------------------------- ----------------------- -------- ------------------- 
+|Continuous Lab Assessment-1|	Lab - Test+record|	  10    |	BEFORE 15 SEP 2025 |
+------------------------- ----------------------- -------- -------------------- 
+|Continuous Lab Assessment-2|	Lab - Test+record|	10      |	BEFORE 17 OCT 2025 |
+------------------------- ----------------------- -------- --------------------
+|Continuous Assessment-2|	   THEORY-Home Work  |	10      |	BEFORE 5 NOV 2025 |
+------------------------- ----------------------- -------- -------------- ----
+|Final Record Submission|	   Lab – Record|	      5       |	BEFORE 30 NOV 2025 |
+------------------------- ----------------------- -------- --------------------
 
 
 
