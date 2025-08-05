@@ -26,7 +26,7 @@ Textbook:
 | Continuous Lab Assessment-1  | Lab - Test + Record | 10    | BEFORE 15 SEP 2025  |
 | Continuous Lab Assessment-2  | Lab - Test + Record | 10    | BEFORE 17 OCT 2025  |
 | Continuous Assessment-2      | THEORY - Home Work  | 10    | BEFORE 5 NOV 2025   |
-| Final Record Submission      | Lab – Record        | 5     | BEFORE 30 NOV 2025  |
+| Final Record Submission      | Lab – Record        | 10     | BEFORE 30 NOV 2025  |
 
 
 
