@@ -1,15 +1,14 @@
 # NOSQL-2025
-COURSE OUTCOMES :
-----------------
-CO1			Understand the limitations of relational databases and explain the motivation behind the emergence of NoSQL databases.
+# Course Outcomes (COs)
 
-CO2		Differentiate between various NoSQL data models such as key-value, document, column-family, and graph databases based on structure, use cases, and performance.
+| CO   | Description                                                                                                                      |
+|------|----------------------------------------------------------------------------------------------------------------------------------|
+| CO1  | Understand the limitations of relational databases and explain the motivation behind the emergence of NoSQL databases.           |
+| CO2  | Differentiate between various NoSQL data models such as key-value, document, column-family, and graph databases based on structure, use cases, and performance. |
+| CO3  | Analyze and apply appropriate distribution strategies including sharding, replication, and consistency models in distributed NoSQL systems. |
+| CO4  | Apply data access patterns using aggregate-oriented modeling and schema-less approaches for scalable NoSQL applications.         |
+| CO5  | Utilize Map-Reduce and other data processing techniques to handle large-scale data operations efficiently in NoSQL environments. |
 
-CO3		Analyze and apply appropriate distribution strategies including sharding, replication, and consistency models in distributed NoSQL systems.
-
-CO4		Apply data access patterns using aggregate-oriented modeling and schema-less approaches for scalable NoSQL applications.
-
-CO5	Utilize Map-Reduce and other data processing techniques to handle large-scale data operations efficiently in NoSQL environments.
 
 
 
@@ -35,7 +34,10 @@ Textbook:
 SPECIFIC GUIDELINES TO STUDENTS
 -------------------------------
 •	Attend all classes regularly (mandatory).
+
 •	Bring Lab observation notes separately to every lab.
+
 •	Record Submission must be on time (highly necessary).
+
 •	Refer to online study materials and watch the suggested videos available on the NPTEL website.
 
