@@ -18,15 +18,13 @@ Textbook:
 2.	Dan Sullivan, "NoSQL For Mere Mortals", 1st Edition, Pearson Education India, 2015. 
 (ISBN- 13: 978-9332557338). 
 
-# EVALUATION - INTERNAL ASSESSMENTS (50 MARKS)
+# INTERNAL ASSESSMENTS (WEIGHTAGE - 25%,  MARKS - 50)
 
-| NAME                        | COMPONENT           | MARKS | DATE                |
-|-----------------------------|---------------------|-------|---------------------|
-| Continuous Assessment-1      | THEORY - Class Work | 10    | BEFORE 30 AUG 2025  |
-| Continuous Lab Assessment-1  | Lab - Test + Record | 10    | BEFORE 15 SEP 2025  |
-| Continuous Lab Assessment-2  | Lab - Test + Record | 10    | BEFORE 17 OCT 2025  |
-| Continuous Assessment-2      | THEORY - Home Work  | 10    | BEFORE 5 NOV 2025   |
-| Final Record Submission      | Lab – Record        | 10     | BEFORE 30 NOV 2025  |
+| NAME                        | COMPONENT            | MARKS | DATE                |  SCOPE
+|-----------------------------|----------------------|-------|---------------------|------------------
+| Continuous Assessment-1      | THEORY + LAB - TEST | 20    | BEFORE MIDTERM  |      COE
+| Continuous Assessment-2      | THEORY + LAB - TEST  | 20    | AFTER MIDTERM   |     COE
+| Final Record Submission      | Lab – Record        | 10     | BEFORE ENDTERM  | DEPARTMENT
 
 
 
@@ -40,4 +38,16 @@ SPECIFIC GUIDELINES TO STUDENTS
 •	Record Submission must be on time (highly necessary).
 
 •	Refer to online study materials and watch the suggested videos available on the NPTEL website.
+
+SPECIFIC REQUESTS TO ALL FACULTIES
+----------------------------------
+•	Identify Slow learners and Fast Learners in regualr interval, upload in link
+
+• Take remedial classes (minimum 3) after midterm evaluation, upload REMEDIAL CLASS attendances and class details with geotagged photos.
+
+•	Upload your section students list and your individual time table.
+
+•	Upload your modern pedagogy approach and student centric activity report with geotagged photos.
+
+
 
