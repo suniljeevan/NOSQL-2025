@@ -41,7 +41,7 @@ SPECIFIC GUIDELINES TO STUDENTS
 
 SPECIFIC REQUESTS TO ALL FACULTIES
 ----------------------------------
-•	Identify Slow learners and Fast Learners in regualr interval, upload in link
+•	Identify Slow learners and Fast Learners in regualr interval, upload in link.
 
 • Take remedial classes (minimum 3) after midterm evaluation, upload REMEDIAL CLASS attendances and class details with geotagged photos.
 
