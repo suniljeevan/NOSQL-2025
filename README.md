@@ -20,11 +20,12 @@ Textbook:
 
 # INTERNAL ASSESSMENTS (WEIGHTAGE - 25%,  MARKS - 50)
 
-| NAME                        | COMPONENT            | MARKS | DATE                |  SCOPE
-|-----------------------------|----------------------|-------|---------------------|------------------
-| Continuous Assessment-1      | THEORY + LAB - TEST | 20    | BEFORE MIDTERM  |      COE
-| Continuous Assessment-2      | THEORY + LAB - TEST  | 20    | AFTER MIDTERM   |     COE
-| Final Record Submission      | Lab – Record        | 10     | BEFORE ENDTERM  | DEPARTMENT
+| NAME                        | COMPONENT                    | MARKS | DATE                     |  SCOPE
+|-----------------------------|------------------------------|-------|--------------------------|------------------
+| Continuous Assessment       | LAB - TEST 1                 | 10    | 15-09-2025 to 22-09-2025 |   DEPARTMENT
+| Continuous Assessment       | LAB - TEST 2                 | 20    | 17-11-2025 to 25-11-2025 |   DEPARTMENT
+| Continuous Assessment       | LAB Observation with viva    | 10    | 01-10-2025 to 10-10-2025 |   FACULTY CONCERNED
+| Continuous Assessment       | RECORD Observation with viva | 10    | 03-11-2025 to 12-11-2025 |   FACULTY CONCERNED 
 
 
 
